@@ -8,10 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ReactTest
-          Comment1
-          Comment2
-          Comment3
+          Intelaki 1
         </p>
         <a
           className="App-link"
